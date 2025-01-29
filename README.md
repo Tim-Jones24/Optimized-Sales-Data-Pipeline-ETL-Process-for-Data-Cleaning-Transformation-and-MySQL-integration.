@@ -1,6 +1,7 @@
 # Optimized Sales Data Pipeline: ETL Process for Data Cleaning Transformation and MySQL integration.
 This ETL(Extract, Transform, Load) project is designed to clean, transform, and enrich sales data from multiple Excel sources before loading it into a MySQL database for efficient querying and analysis.
 
+
 #### **Overview**
 This project is an ETL pipeline designed to extract, clean, and transform sales storing it in a MySQL database. The goal is to ensure data accuracy,integrity, and usability for business analytics and reporting. The project addresses common data quality issues such as missing values, inconsistent data entries, incorrect formatting, and enhances readability by deriving meaningful insights. The goal is to provide businessess with structured and accurate data,enabling informed decision-making.
 
